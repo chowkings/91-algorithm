@@ -2,7 +2,7 @@
 
 91 天算法爬坑
 
-##  每日一题
+## 每日一题
 
 - [【Day01 - 66.加一】](./easy/66.加一.md)------[【参考答案】](https://github.com/leetcode-pp/91alg-1/issues/1#issuecomment-636883697)
 - [【Day02 - 75.颜色分类】](./medium/75.颜色分类.md)------[【参考答案】](https://github.com/leetcode-pp/91alg-1/issues/15#issuecomment-637651551)
